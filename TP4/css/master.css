@@ -1,0 +1,18 @@
+.video-container{
+position: absolute;
+z-index: -100;
+top: 0;
+left: 0;
+width: 100%;
+height: calc(100vm * 1,7777777778);
+overflow: hidden;
+}
+
+.video-container video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vm;
+    
+
+}
